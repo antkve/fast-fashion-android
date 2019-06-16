@@ -1,0 +1,1559 @@
+<dataset>
+  <images>
+    <image file="cloC01901.png" type="pants" shape="wrinkled">
+      <box top="24" left="273" width="564" height="942">
+        <part name="left-leg-outer" x="809" y="78"/>
+        <part name="left-leg-inner" x="670" y="96"/>
+        <part name="crotch" x="631" y="588"/>
+        <part name="right-leg-inner" x="426" y="29"/>
+        <part name="rigth-leg-outer" x="278" y="57"/>
+        <part name="top-right" x="366" y="933"/>
+        <part name="top-left" x="833" y="961"/>
+      </box>
+    </image>
+    <image file="cloC01902.png" type="pants" shape="wrinkled">
+      <box top="24" left="55" width="975" height="986">
+        <part name="left-leg-outer" x="421" y="29"/>
+        <part name="left-leg-inner" x="294" y="91"/>
+        <part name="crotch" x="630" y="555"/>
+        <part name="right-leg-inner" x="205" y="197"/>
+        <part name="rigth-leg-outer" x="60" y="280"/>
+        <part name="top-right" x="725" y="1005"/>
+        <part name="top-left" x="1026" y="685"/>
+      </box>
+    </image>
+    <image file="cloC01904.png" type="pants" shape="wrinkled">
+      <box top="360" left="49" width="1122" height="514">
+        <part name="left-leg-outer" x="81" y="412"/>
+        <part name="left-leg-inner" x="70" y="573"/>
+        <part name="crotch" x="725" y="583"/>
+        <part name="right-leg-inner" x="69" y="676"/>
+        <part name="rigth-leg-outer" x="54" y="870"/>
+        <part name="top-right" x="1166" y="740"/>
+        <part name="top-left" x="1047" y="365"/>
+      </box>
+    </image>
+    <image file="cloC01905.png" type="pants" shape="wrinkled">
+      <box top="126" left="175" width="1031" height="853">
+        <part name="left-leg-outer" x="180" y="617"/>
+        <part name="left-leg-inner" x="280" y="767"/>
+        <part name="crotch" x="791" y="423"/>
+        <part name="right-leg-inner" x="277" y="785"/>
+        <part name="rigth-leg-outer" x="348" y="975"/>
+        <part name="top-right" x="1201" y="385"/>
+        <part name="top-left" x="958" y="131"/>
+      </box>
+    </image>
+    <image file="cloC01906.png" type="pants" shape="wrinkled">
+      <box top="27" left="332" width="651" height="965">
+        <part name="left-leg-outer" x="337" y="856"/>
+        <part name="left-leg-inner" x="528" y="914"/>
+        <part name="crotch" x="703" y="318"/>
+        <part name="right-leg-inner" x="643" y="920"/>
+        <part name="rigth-leg-outer" x="840" y="988"/>
+        <part name="top-right" x="979" y="149"/>
+        <part name="top-left" x="662" y="32"/>
+      </box>
+    </image>
+    <image file="cloC01909.png" type="pants" shape="wrinkled">
+      <box top="199" left="48" width="1118" height="772">
+        <part name="left-leg-outer" x="1161" y="550"/>
+        <part name="left-leg-inner" x="1078" y="402"/>
+        <part name="crotch" x="426" y="612"/>
+        <part name="right-leg-inner" x="1007" y="329"/>
+        <part name="rigth-leg-outer" x="929" y="204"/>
+        <part name="top-right" x="53" y="545"/>
+        <part name="top-left" x="144" y="966"/>
+      </box>
+    </image>
+    <image file="cloC01910.png" type="pants" shape="wrinkled">
+      <box top="39" left="230" width="852" height="967">
+        <part name="left-leg-outer" x="1078" y="219"/>
+        <part name="left-leg-inner" x="946" y="140"/>
+        <part name="crotch" x="594" y="570"/>
+        <part name="right-leg-inner" x="806" y="115"/>
+        <part name="rigth-leg-outer" x="683" y="44"/>
+        <part name="top-right" x="235" y="782"/>
+        <part name="top-left" x="636" y="1002"/>
+      </box>
+    </image>
+    <image file="cloC01911.png" type="pants" shape="wrinkled">
+      <box top="69" left="254" width="899" height="924">
+        <part name="left-leg-outer" x="603" y="74"/>
+        <part name="left-leg-inner" x="503" y="129"/>
+        <part name="crotch" x="758" y="544"/>
+        <part name="right-leg-inner" x="366" y="229"/>
+        <part name="rigth-leg-outer" x="259" y="310"/>
+        <part name="top-right" x="843" y="989"/>
+        <part name="top-left" x="1149" y="729"/>
+      </box>
+    </image>
+    <image file="cloC01912.png" type="pants" shape="wrinkled">
+      <box top="265" left="81" width="998" height="643">
+        <part name="left-leg-outer" x="216" y="270"/>
+        <part name="left-leg-inner" x="159" y="384"/>
+        <part name="crotch" x="701" y="569"/>
+        <part name="right-leg-inner" x="150" y="476"/>
+        <part name="rigth-leg-outer" x="86" y="612"/>
+        <part name="top-right" x="972" y="903"/>
+        <part name="top-left" x="1074" y="520"/>
+      </box>
+    </image>
+    <image file="cloC01913.png" type="pants" shape="wrinkled">
+      <box top="307" left="96" width="975" height="566">
+        <part name="left-leg-outer" x="144" y="312"/>
+        <part name="left-leg-inner" x="101" y="437"/>
+        <part name="crotch" x="752" y="512"/>
+        <part name="right-leg-inner" x="134" y="709"/>
+        <part name="rigth-leg-outer" x="160" y="868"/>
+        <part name="top-right" x="1066" y="714"/>
+        <part name="top-left" x="1018" y="348"/>
+      </box>
+    </image>
+    <image file="cloC01914.png" type="pants" shape="wrinkled">
+      <box top="109" left="195" width="977" height="744">
+        <part name="left-leg-outer" x="200" y="441"/>
+        <part name="left-leg-inner" x="251" y="561"/>
+        <part name="crotch" x="807" y="333"/>
+        <part name="right-leg-inner" x="413" y="719"/>
+        <part name="rigth-leg-outer" x="506" y="848"/>
+        <part name="top-right" x="1168" y="374"/>
+        <part name="top-left" x="966" y="114"/>
+      </box>
+    </image>
+    <image file="cloC01915.png" type="pants" shape="wrinkled">
+      <box top="58" left="98" width="811" height="924">
+        <part name="left-leg-outer" x="103" y="782"/>
+        <part name="left-leg-inner" x="229" y="879"/>
+        <part name="crotch" x="634" y="355"/>
+        <part name="right-leg-inner" x="531" y="913"/>
+        <part name="rigth-leg-outer" x="689" y="978"/>
+        <part name="top-right" x="905" y="177"/>
+        <part name="top-left" x="597" y="63"/>
+      </box>
+    </image>
+    <image file="cloC01917.png" type="pants" shape="wrinkled">
+      <box top="58" left="128" width="852" height="867">
+        <part name="left-leg-outer" x="637" y="920"/>
+        <part name="left-leg-inner" x="777" y="834"/>
+        <part name="crotch" x="470" y="356"/>
+        <part name="right-leg-inner" x="866" y="742"/>
+        <part name="rigth-leg-outer" x="975" y="645"/>
+        <part name="top-right" x="427" y="63"/>
+        <part name="top-left" x="133" y="229"/>
+      </box>
+    </image>
+    <image file="cloC01918.png" type="pants" shape="wrinkled">
+      <box top="218" left="20" width="1009" height="603">
+        <part name="left-leg-outer" x="943" y="816"/>
+        <part name="left-leg-inner" x="931" y="660"/>
+        <part name="crotch" x="450" y="480"/>
+        <part name="right-leg-inner" x="980" y="633"/>
+        <part name="rigth-leg-outer" x="1024" y="511"/>
+        <part name="top-right" x="212" y="223"/>
+        <part name="top-left" x="25" y="518"/>
+      </box>
+    </image>
+    <image file="cloC01920.png" type="pants" shape="wrinkled">
+      <box top="171" left="262" width="913" height="856">
+        <part name="left-leg-outer" x="1170" y="383"/>
+        <part name="left-leg-inner" x="1068" y="295"/>
+        <part name="crotch" x="669" y="615"/>
+        <part name="right-leg-inner" x="991" y="261"/>
+        <part name="rigth-leg-outer" x="903" y="176"/>
+        <part name="top-right" x="267" y="692"/>
+        <part name="top-left" x="560" y="1022"/>
+      </box>
+    </image>
+    <image file="cloC01921.png" type="polo" shape="wrinkled">
+      <box top="229" left="296" width="726" height="689">
+        <part name="bottom-left" x="840" y="234"/>
+        <part name="bottom-right" x="428" y="289"/>
+        <part name="right-armpit" x="452" y="612"/>
+        <part name="right-sleave-inner" x="386" y="598"/>
+        <part name="right-sleave-outer" x="301" y="726"/>
+        <part name="right-shoulder" x="442" y="835"/>
+        <part name="neckline-right" x="580" y="867"/>
+        <part name="collar-rigth" x="606" y="914"/>
+        <part name="collar-left" x="780" y="870"/>
+        <part name="neckline-left" x="773" y="804"/>
+        <part name="left-shoulder" x="829" y="800"/>
+        <part name="left-sleave-outer" x="1018" y="771"/>
+        <part name="left-sleave-inner" x="972" y="622"/>
+        <part name="left-armpit" x="899" y="612"/>
+      </box>
+    </image>
+    <image file="cloC01922.png" type="polo" shape="wrinkled">
+      <box top="178" left="306" width="757" height="672">
+        <part name="bottom-left" x="717" y="183"/>
+        <part name="bottom-right" x="311" y="332"/>
+        <part name="right-armpit" x="516" y="657"/>
+        <part name="right-sleave-inner" x="469" y="650"/>
+        <part name="right-sleave-outer" x="412" y="801"/>
+        <part name="right-shoulder" x="610" y="842"/>
+        <part name="neckline-right" x="738" y="810"/>
+        <part name="collar-rigth" x="778" y="846"/>
+        <part name="collar-left" x="917" y="763"/>
+        <part name="neckline-left" x="904" y="709"/>
+        <part name="left-shoulder" x="989" y="660"/>
+        <part name="left-sleave-outer" x="1059" y="501"/>
+        <part name="left-sleave-inner" x="934" y="443"/>
+        <part name="left-armpit" x="904" y="482"/>
+      </box>
+    </image>
+    <image file="cloC01923.png" type="polo" shape="wrinkled">
+      <box top="232" left="216" width="758" height="659">
+        <part name="bottom-left" x="473" y="237"/>
+        <part name="bottom-right" x="221" y="584"/>
+        <part name="right-armpit" x="558" y="767"/>
+        <part name="right-sleave-inner" x="574" y="735"/>
+        <part name="right-sleave-outer" x="561" y="886"/>
+        <part name="right-shoulder" x="796" y="849"/>
+        <part name="neckline-right" x="858" y="773"/>
+        <part name="collar-rigth" x="900" y="780"/>
+        <part name="collar-left" x="970" y="645"/>
+        <part name="neckline-left" x="943" y="610"/>
+        <part name="left-shoulder" x="952" y="452"/>
+        <part name="left-sleave-outer" x="917" y="348"/>
+        <part name="left-sleave-inner" x="792" y="355"/>
+        <part name="left-armpit" x="777" y="412"/>
+      </box>
+    </image>
+    <image file="cloC01924.png" type="polo" shape="wrinkled">
+      <box top="242" left="301" width="670" height="701">
+        <part name="bottom-left" x="308" y="361"/>
+        <part name="bottom-right" x="306" y="834"/>
+        <part name="right-armpit" x="755" y="795"/>
+        <part name="right-sleave-inner" x="745" y="857"/>
+        <part name="right-sleave-outer" x="889" y="938"/>
+        <part name="right-shoulder" x="956" y="739"/>
+        <part name="neckline-right" x="941" y="653"/>
+        <part name="collar-rigth" x="967" y="644"/>
+        <part name="collar-left" x="944" y="492"/>
+        <part name="neckline-left" x="906" y="475"/>
+        <part name="left-shoulder" x="830" y="348"/>
+        <part name="left-sleave-outer" x="721" y="247"/>
+        <part name="left-sleave-inner" x="637" y="320"/>
+        <part name="left-armpit" x="646" y="361"/>
+      </box>
+    </image>
+    <image file="cloC01925.png" type="polo" shape="wrinkled">
+      <box top="251" left="218" width="783" height="697">
+        <part name="bottom-left" x="223" y="649"/>
+        <part name="bottom-right" x="525" y="943"/>
+        <part name="right-armpit" x="830" y="597"/>
+        <part name="right-sleave-inner" x="878" y="643"/>
+        <part name="right-sleave-outer" x="996" y="577"/>
+        <part name="right-shoulder" x="903" y="438"/>
+        <part name="neckline-right" x="852" y="413"/>
+        <part name="collar-rigth" x="848" y="398"/>
+        <part name="collar-left" x="738" y="313"/>
+        <part name="neckline-left" x="714" y="320"/>
+        <part name="left-shoulder" x="637" y="291"/>
+        <part name="left-sleave-outer" x="465" y="256"/>
+        <part name="left-sleave-inner" x="441" y="371"/>
+        <part name="left-armpit" x="462" y="383"/>
+      </box>
+    </image>
+    <image file="cloC01926.png" type="polo" shape="wrinkled">
+      <box top="227" left="334" width="597" height="655">
+        <part name="bottom-left" x="391" y="877"/>
+        <part name="bottom-right" x="927" y="805"/>
+        <part name="right-armpit" x="848" y="419"/>
+        <part name="right-sleave-inner" x="904" y="412"/>
+        <part name="right-sleave-outer" x="901" y="296"/>
+        <part name="right-shoulder" x="786" y="272"/>
+        <part name="neckline-right" x="669" y="249"/>
+        <part name="collar-rigth" x="651" y="232"/>
+        <part name="collar-left" x="519" y="256"/>
+        <part name="neckline-left" x="512" y="274"/>
+        <part name="left-shoulder" x="451" y="290"/>
+        <part name="left-sleave-outer" x="375" y="293"/>
+        <part name="left-sleave-inner" x="339" y="416"/>
+        <part name="left-armpit" x="405" y="454"/>
+      </box>
+    </image>
+    <image file="cloC01928.png" type="polo" shape="wrinkled">
+      <box top="213" left="209" width="700" height="689">
+        <part name="bottom-left" x="900" y="823"/>
+        <part name="bottom-right" x="904" y="464"/>
+        <part name="right-armpit" x="556" y="342"/>
+        <part name="right-sleave-inner" x="587" y="310"/>
+        <part name="right-sleave-outer" x="495" y="218"/>
+        <part name="right-shoulder" x="366" y="315"/>
+        <part name="neckline-right" x="322" y="393"/>
+        <part name="collar-rigth" x="287" y="393"/>
+        <part name="collar-left" x="214" y="525"/>
+        <part name="neckline-left" x="237" y="554"/>
+        <part name="left-shoulder" x="215" y="676"/>
+        <part name="left-sleave-outer" x="258" y="898"/>
+        <part name="left-sleave-inner" x="424" y="842"/>
+        <part name="left-armpit" x="431" y="766"/>
+      </box>
+    </image>
+    <image file="cloC01929.png" type="polo" shape="wrinkled">
+      <box top="293" left="239" width="800" height="725">
+        <part name="bottom-left" x="1035" y="649"/>
+        <part name="bottom-right" x="839" y="298"/>
+        <part name="right-armpit" x="455" y="381"/>
+        <part name="right-sleave-inner" x="462" y="359"/>
+        <part name="right-sleave-outer" x="329" y="310"/>
+        <part name="right-shoulder" x="258" y="484"/>
+        <part name="neckline-right" x="276" y="593"/>
+        <part name="collar-rigth" x="244" y="627"/>
+        <part name="collar-left" x="304" y="781"/>
+        <part name="neckline-left" x="347" y="777"/>
+        <part name="left-shoulder" x="418" y="893"/>
+        <part name="left-sleave-outer" x="527" y="1013"/>
+        <part name="left-sleave-inner" x="660" y="904"/>
+        <part name="left-armpit" x="641" y="820"/>
+      </box>
+    </image>
+    <image file="cloC01930.png" type="polo" shape="wrinkled">
+      <box top="211" left="143" width="757" height="712">
+        <part name="bottom-left" x="895" y="418"/>
+        <part name="bottom-right" x="560" y="216"/>
+        <part name="right-armpit" x="318" y="506"/>
+        <part name="right-sleave-inner" x="301" y="474"/>
+        <part name="right-sleave-outer" x="148" y="531"/>
+        <part name="right-shoulder" x="207" y="685"/>
+        <part name="neckline-right" x="287" y="758"/>
+        <part name="collar-rigth" x="275" y="811"/>
+        <part name="collar-left" x="424" y="903"/>
+        <part name="neckline-left" x="464" y="872"/>
+        <part name="left-shoulder" x="599" y="919"/>
+        <part name="left-sleave-outer" x="806" y="908"/>
+        <part name="left-sleave-inner" x="778" y="740"/>
+        <part name="left-armpit" x="720" y="718"/>
+      </box>
+    </image>
+    <image file="cloC01932.png" type="hoody" shape="wrinkled">
+      <box top="47" left="21" width="937" height="947">
+        <part name="bottom-left" x="598" y="128"/>
+        <part name="bottom-right" x="245" y="310"/>
+        <part name="right-armpit" x="443" y="610"/>
+        <part name="right-sleave-inner" x="26" y="704"/>
+        <part name="right-sleave-outer" x="34" y="792"/>
+        <part name="right-shoulder" x="593" y="794"/>
+        <part name="hood-right" x="689" y="754"/>
+        <part name="hood-top" x="953" y="989"/>
+        <part name="hood-left" x="898" y="641"/>
+        <part name="left-shoulder" x="936" y="535"/>
+        <part name="left-sleave-outer" x="792" y="52"/>
+        <part name="left-sleave-inner" x="731" y="64"/>
+        <part name="left-armpit" x="777" y="334"/>
+      </box>
+    </image>
+    <image file="cloC01933.png" type="hoody" shape="wrinkled">
+      <box top="74" left="13" width="1128" height="750">
+        <part name="bottom-left" x="419" y="196"/>
+        <part name="bottom-right" x="162" y="527"/>
+        <part name="right-armpit" x="474" y="705"/>
+        <part name="right-sleave-inner" x="60" y="686"/>
+        <part name="right-sleave-outer" x="18" y="773"/>
+        <part name="right-shoulder" x="744" y="820"/>
+        <part name="hood-right" x="830" y="730"/>
+        <part name="hood-top" x="1137" y="644"/>
+        <part name="hood-left" x="908" y="526"/>
+        <part name="left-shoulder" x="899" y="443"/>
+        <part name="left-sleave-outer" x="632" y="79"/>
+        <part name="left-sleave-inner" x="593" y="123"/>
+        <part name="left-armpit" x="734" y="360"/>
+      </box>
+    </image>
+    <image file="cloC01934.png" type="hoody" shape="wrinkled">
+      <box top="95" left="228" width="958" height="786">
+        <part name="bottom-left" x="303" y="266"/>
+        <part name="bottom-right" x="233" y="687"/>
+        <part name="right-armpit" x="684" y="720"/>
+        <part name="right-sleave-inner" x="281" y="778"/>
+        <part name="right-sleave-outer" x="259" y="876"/>
+        <part name="right-shoulder" x="913" y="691"/>
+        <part name="hood-right" x="913" y="597"/>
+        <part name="hood-top" x="1182" y="509"/>
+        <part name="hood-left" x="904" y="391"/>
+        <part name="left-shoulder" x="881" y="332"/>
+        <part name="left-sleave-outer" x="375" y="100"/>
+        <part name="left-sleave-inner" x="356" y="154"/>
+        <part name="left-armpit" x="643" y="275"/>
+      </box>
+    </image>
+    <image file="cloC01935.png" type="hoody" shape="wrinkled">
+      <box top="184" left="195" width="918" height="823">
+        <part name="bottom-left" x="200" y="478"/>
+        <part name="bottom-right" x="408" y="898"/>
+        <part name="right-armpit" x="816" y="715"/>
+        <part name="right-sleave-inner" x="583" y="905"/>
+        <part name="right-sleave-outer" x="622" y="1002"/>
+        <part name="right-shoulder" x="971" y="593"/>
+        <part name="hood-right" x="924" y="551"/>
+        <part name="hood-top" x="1108" y="374"/>
+        <part name="hood-left" x="833" y="355"/>
+        <part name="left-shoulder" x="744" y="287"/>
+        <part name="left-sleave-outer" x="291" y="189"/>
+        <part name="left-sleave-inner" x="282" y="249"/>
+        <part name="left-armpit" x="537" y="346"/>
+      </box>
+    </image>
+    <image file="cloC01936.png" type="hoody" shape="wrinkled">
+      <box top="166" left="159" width="975" height="801">
+        <part name="bottom-left" x="305" y="685"/>
+        <part name="bottom-right" x="741" y="934"/>
+        <part name="right-armpit" x="924" y="635"/>
+        <part name="right-sleave-inner" x="1040" y="962"/>
+        <part name="right-sleave-outer" x="1130" y="945"/>
+        <part name="right-shoulder" x="1002" y="471"/>
+        <part name="hood-right" x="942" y="393"/>
+        <part name="hood-top" x="974" y="171"/>
+        <part name="hood-left" x="766" y="271"/>
+        <part name="left-shoulder" x="667" y="244"/>
+        <part name="left-sleave-outer" x="164" y="312"/>
+        <part name="left-sleave-inner" x="178" y="379"/>
+        <part name="left-armpit" x="536" y="372"/>
+      </box>
+    </image>
+    <image file="cloC01938.png" type="hoody" shape="wrinkled">
+      <box top="135" left="312" width="799" height="856">
+        <part name="bottom-left" x="653" y="877"/>
+        <part name="bottom-right" x="1004" y="578"/>
+        <part name="right-armpit" x="753" y="357"/>
+        <part name="right-sleave-inner" x="1046" y="564"/>
+        <part name="right-sleave-outer" x="1106" y="518"/>
+        <part name="right-shoulder" x="634" y="197"/>
+        <part name="hood-right" x="536" y="243"/>
+        <part name="hood-top" x="317" y="140"/>
+        <part name="hood-left" x="385" y="359"/>
+        <part name="left-shoulder" x="334" y="385"/>
+        <part name="left-sleave-outer" x="407" y="986"/>
+        <part name="left-sleave-inner" x="493" y="923"/>
+        <part name="left-armpit" x="438" y="558"/>
+      </box>
+    </image>
+    <image file="cloC01941.png" type="skirt" shape="wrinkled">
+      <box top="359" left="270" width="761" height="191">
+        <part name="bottom-left" x="1026" y="364"/>
+        <part name="bottom-right" x="275" y="365"/>
+        <part name="top-right" x="523" y="545"/>
+        <part name="top-left" x="755" y="493"/>
+      </box>
+    </image>
+    <image file="cloC01943.png" type="skirt" shape="wrinkled">
+      <box top="135" left="344" width="323" height="597">
+        <part name="bottom-left" x="570" y="140"/>
+        <part name="bottom-right" x="349" y="728"/>
+        <part name="top-right" x="568" y="578"/>
+        <part name="top-left" x="663" y="362"/>
+      </box>
+    </image>
+    <image file="cloC01947.png" type="skirt" shape="wrinkled">
+      <box top="237" left="362" width="381" height="540">
+        <part name="bottom-left" x="588" y="772"/>
+        <part name="bottom-right" x="739" y="242"/>
+        <part name="top-right" x="413" y="327"/>
+        <part name="top-left" x="367" y="565"/>
+      </box>
+    </image>
+    <image file="cloC01950.png" type="skirt" shape="wrinkled">
+      <box top="388" left="322" width="687" height="417">
+        <part name="bottom-left" x="1004" y="393"/>
+        <part name="bottom-right" x="327" y="594"/>
+        <part name="top-right" x="641" y="800"/>
+        <part name="top-left" x="894" y="692"/>
+      </box>
+    </image>
+    <image file="cloC01951.png" type="polo" shape="wrinkled">
+      <box top="336" left="323" width="522" height="573">
+        <part name="bottom-left" x="773" y="341"/>
+        <part name="bottom-right" x="344" y="361"/>
+        <part name="right-armpit" x="382" y="633"/>
+        <part name="right-sleave-inner" x="367" y="631"/>
+        <part name="right-sleave-outer" x="328" y="757"/>
+        <part name="right-shoulder" x="408" y="824"/>
+        <part name="neckline-right" x="497" y="858"/>
+        <part name="collar-rigth" x="517" y="904"/>
+        <part name="collar-left" x="696" y="882"/>
+        <part name="neckline-left" x="705" y="833"/>
+        <part name="left-shoulder" x="788" y="764"/>
+        <part name="left-sleave-outer" x="840" y="659"/>
+        <part name="left-sleave-inner" x="764" y="564"/>
+        <part name="left-armpit" x="757" y="564"/>
+      </box>
+    </image>
+    <image file="cloC01952.png" type="polo" shape="wrinkled">
+      <box top="269" left="205" width="627" height="608">
+        <part name="bottom-left" x="598" y="274"/>
+        <part name="bottom-right" x="210" y="493"/>
+        <part name="right-armpit" x="404" y="719"/>
+        <part name="right-sleave-inner" x="393" y="728"/>
+        <part name="right-sleave-outer" x="413" y="862"/>
+        <part name="right-shoulder" x="547" y="872"/>
+        <part name="neckline-right" x="651" y="844"/>
+        <part name="collar-rigth" x="692" y="861"/>
+        <part name="collar-left" x="815" y="729"/>
+        <part name="neckline-left" x="791" y="688"/>
+        <part name="left-shoulder" x="809" y="603"/>
+        <part name="left-sleave-outer" x="828" y="575"/>
+        <part name="left-sleave-inner" x="734" y="493"/>
+        <part name="left-armpit" x="725" y="493"/>
+      </box>
+    </image>
+    <image file="cloC01953.png" type="polo" shape="wrinkled">
+      <box top="282" left="221" width="655" height="601">
+        <part name="bottom-left" x="442" y="287"/>
+        <part name="bottom-right" x="226" y="685"/>
+        <part name="right-armpit" x="535" y="763"/>
+        <part name="right-sleave-inner" x="530" y="771"/>
+        <part name="right-sleave-outer" x="610" y="879"/>
+        <part name="right-shoulder" x="735" y="825"/>
+        <part name="neckline-right" x="797" y="752"/>
+        <part name="collar-rigth" x="835" y="748"/>
+        <part name="collar-left" x="872" y="583"/>
+        <part name="neckline-left" x="835" y="561"/>
+        <part name="left-shoulder" x="815" y="489"/>
+        <part name="left-sleave-outer" x="753" y="404"/>
+        <part name="left-sleave-inner" x="641" y="409"/>
+        <part name="left-armpit" x="636" y="428"/>
+      </box>
+    </image>
+    <image file="cloC01954.png" type="polo" shape="wrinkled">
+      <box top="331" left="328" width="547" height="508">
+        <part name="bottom-left" x="396" y="353"/>
+        <part name="bottom-right" x="333" y="818"/>
+        <part name="right-armpit" x="636" y="766"/>
+        <part name="right-sleave-inner" x="616" y="790"/>
+        <part name="right-sleave-outer" x="734" y="834"/>
+        <part name="right-shoulder" x="777" y="777"/>
+        <part name="neckline-right" x="819" y="695"/>
+        <part name="collar-rigth" x="857" y="683"/>
+        <part name="collar-left" x="871" y="525"/>
+        <part name="neckline-left" x="832" y="501"/>
+        <part name="left-shoulder" x="805" y="426"/>
+        <part name="left-sleave-outer" x="716" y="336"/>
+        <part name="left-sleave-inner" x="630" y="375"/>
+        <part name="left-armpit" x="626" y="379"/>
+      </box>
+    </image>
+    <image file="cloC01955.png" type="polo" shape="wrinkled">
+      <box top="301" left="273" width="592" height="593">
+        <part name="bottom-left" x="278" y="501"/>
+        <part name="bottom-right" x="536" y="890"/>
+        <part name="right-armpit" x="731" y="695"/>
+        <part name="right-sleave-inner" x="730" y="711"/>
+        <part name="right-sleave-outer" x="853" y="692"/>
+        <part name="right-shoulder" x="861" y="575"/>
+        <part name="neckline-right" x="844" y="497"/>
+        <part name="collar-rigth" x="853" y="483"/>
+        <part name="collar-left" x="764" y="353"/>
+        <part name="neckline-left" x="736" y="359"/>
+        <part name="left-shoulder" x="646" y="320"/>
+        <part name="left-sleave-outer" x="532" y="306"/>
+        <part name="left-sleave-inner" x="483" y="393"/>
+        <part name="left-armpit" x="489" y="403"/>
+      </box>
+    </image>
+    <image file="cloC01958.png" type="polo" shape="wrinkled">
+      <box top="238" left="315" width="518" height="565">
+        <part name="bottom-left" x="693" y="799"/>
+        <part name="bottom-right" x="829" y="450"/>
+        <part name="right-armpit" x="656" y="342"/>
+        <part name="right-sleave-inner" x="663" y="342"/>
+        <part name="right-sleave-outer" x="639" y="254"/>
+        <part name="right-shoulder" x="535" y="243"/>
+        <part name="neckline-right" x="455" y="279"/>
+        <part name="collar-rigth" x="441" y="276"/>
+        <part name="collar-left" x="327" y="388"/>
+        <part name="neckline-left" x="352" y="413"/>
+        <part name="left-shoulder" x="320" y="493"/>
+        <part name="left-sleave-outer" x="320" y="598"/>
+        <part name="left-sleave-inner" x="437" y="646"/>
+        <part name="left-armpit" x="446" y="640"/>
+      </box>
+    </image>
+    <image file="cloC01959.png" type="polo" shape="wrinkled">
+      <box top="270" left="313" width="541" height="479">
+        <part name="bottom-left" x="849" y="709"/>
+        <part name="bottom-right" x="801" y="315"/>
+        <part name="right-armpit" x="591" y="336"/>
+        <part name="right-sleave-inner" x="591" y="332"/>
+        <part name="right-sleave-outer" x="499" y="275"/>
+        <part name="right-shoulder" x="413" y="326"/>
+        <part name="neckline-right" x="358" y="399"/>
+        <part name="collar-rigth" x="329" y="414"/>
+        <part name="collar-left" x="318" y="570"/>
+        <part name="neckline-left" x="365" y="578"/>
+        <part name="left-shoulder" x="404" y="659"/>
+        <part name="left-sleave-outer" x="483" y="744"/>
+        <part name="left-sleave-inner" x="608" y="692"/>
+        <part name="left-armpit" x="606" y="682"/>
+      </box>
+    </image>
+    <image file="cloC01960.png" type="polo" shape="wrinkled">
+      <box top="201" left="320" width="593" height="533">
+        <part name="bottom-left" x="909" y="447"/>
+        <part name="bottom-right" x="602" y="206"/>
+        <part name="right-armpit" x="443" y="374"/>
+        <part name="right-sleave-inner" x="434" y="362"/>
+        <part name="right-sleave-outer" x="325" y="402"/>
+        <part name="right-shoulder" x="328" y="504"/>
+        <part name="neckline-right" x="363" y="588"/>
+        <part name="collar-rigth" x="352" y="621"/>
+        <part name="collar-left" x="494" y="730"/>
+        <part name="neckline-left" x="516" y="696"/>
+        <part name="left-shoulder" x="621" y="724"/>
+        <part name="left-sleave-outer" x="748" y="705"/>
+        <part name="left-sleave-inner" x="747" y="573"/>
+        <part name="left-armpit" x="735" y="574"/>
+      </box>
+    </image>
+    <image file="cloC01961.png" type="tshirt" shape="wrinkled">
+      <box top="290" left="334" width="558" height="536">
+        <part name="bottom-left" x="806" y="295"/>
+        <part name="bottom-right" x="371" y="308"/>
+        <part name="right-armpit" x="412" y="596"/>
+        <part name="right-sleave-inner" x="390" y="596"/>
+        <part name="right-sleave-outer" x="339" y="724"/>
+        <part name="right-shoulder" x="509" y="810"/>
+        <part name="neckline-right" x="533" y="805"/>
+        <part name="neckline-left" x="692" y="822"/>
+        <part name="left-shoulder" x="781" y="790"/>
+        <part name="left-sleave-outer" x="887" y="695"/>
+        <part name="left-sleave-inner" x="814" y="588"/>
+        <part name="left-armpit" x="804" y="583"/>
+      </box>
+    </image>
+    <image file="cloC01962.png" type="tshirt" shape="wrinkled">
+      <box top="238" left="246" width="632" height="571">
+        <part name="bottom-left" x="613" y="243"/>
+        <part name="bottom-right" x="251" y="473"/>
+        <part name="right-armpit" x="457" y="667"/>
+        <part name="right-sleave-inner" x="445" y="700"/>
+        <part name="right-sleave-outer" x="525" y="805"/>
+        <part name="right-shoulder" x="591" y="773"/>
+        <part name="neckline-right" x="669" y="763"/>
+        <part name="neckline-left" x="725" y="715"/>
+        <part name="left-shoulder" x="806" y="678"/>
+        <part name="left-sleave-outer" x="873" y="567"/>
+        <part name="left-sleave-inner" x="792" y="476"/>
+        <part name="left-armpit" x="781" y="479"/>
+      </box>
+    </image>
+    <image file="cloC01965.png" type="tshirt" shape="wrinkled">
+      <box top="262" left="322" width="475" height="561">
+        <part name="bottom-left" x="334" y="819"/>
+        <part name="bottom-right" x="787" y="795"/>
+        <part name="right-armpit" x="749" y="482"/>
+        <part name="right-sleave-inner" x="767" y="482"/>
+        <part name="right-sleave-outer" x="792" y="372"/>
+        <part name="right-shoulder" x="739" y="334"/>
+        <part name="neckline-right" x="640" y="290"/>
+        <part name="neckline-left" x="514" y="267"/>
+        <part name="left-shoulder" x="434" y="286"/>
+        <part name="left-sleave-outer" x="327" y="347"/>
+        <part name="left-sleave-inner" x="357" y="447"/>
+        <part name="left-armpit" x="370" y="446"/>
+      </box>
+    </image>
+    <image file="cloC01966.png" type="tshirt" shape="wrinkled">
+      <box top="294" left="248" width="688" height="679">
+        <part name="bottom-left" x="582" y="969"/>
+        <part name="bottom-right" x="932" y="612"/>
+        <part name="right-armpit" x="700" y="417"/>
+        <part name="right-sleave-inner" x="714" y="402"/>
+        <part name="right-sleave-outer" x="669" y="299"/>
+        <part name="right-shoulder" x="550" y="301"/>
+        <part name="neckline-right" x="481" y="342"/>
+        <part name="neckline-left" x="355" y="397"/>
+        <part name="left-shoulder" x="306" y="459"/>
+        <part name="left-sleave-outer" x="253" y="558"/>
+        <part name="left-sleave-inner" x="341" y="641"/>
+        <part name="left-armpit" x="353" y="634"/>
+      </box>
+    </image>
+    <image file="cloC01967.png" type="tshirt" shape="wrinkled">
+      <box top="243" left="346" width="585" height="519">
+        <part name="bottom-left" x="895" y="758"/>
+        <part name="bottom-right" x="927" y="362"/>
+        <part name="right-armpit" x="612" y="310"/>
+        <part name="right-sleave-inner" x="610" y="290"/>
+        <part name="right-sleave-outer" x="503" y="248"/>
+        <part name="right-shoulder" x="424" y="317"/>
+        <part name="neckline-right" x="389" y="383"/>
+        <part name="neckline-left" x="351" y="539"/>
+        <part name="left-shoulder" x="357" y="577"/>
+        <part name="left-sleave-outer" x="404" y="712"/>
+        <part name="left-sleave-inner" x="535" y="700"/>
+        <part name="left-armpit" x="536" y="686"/>
+      </box>
+    </image>
+    <image file="cloC01968.png" type="tshirt" shape="wrinkled">
+      <box top="265" left="377" width="637" height="623">
+        <part name="bottom-left" x="1010" y="560"/>
+        <part name="bottom-right" x="720" y="270"/>
+        <part name="right-armpit" x="525" y="461"/>
+        <part name="right-sleave-inner" x="516" y="451"/>
+        <part name="right-sleave-outer" x="394" y="476"/>
+        <part name="right-shoulder" x="382" y="613"/>
+        <part name="neckline-right" x="410" y="697"/>
+        <part name="neckline-left" x="500" y="808"/>
+        <part name="left-shoulder" x="533" y="824"/>
+        <part name="left-sleave-outer" x="668" y="884"/>
+        <part name="left-sleave-inner" x="755" y="778"/>
+        <part name="left-armpit" x="750" y="767"/>
+      </box>
+    </image>
+    <image file="cloC01969.png" type="tshirt" shape="wrinkled">
+      <box top="312" left="428" width="526" height="525">
+        <part name="bottom-left" x="859" y="317"/>
+        <part name="bottom-right" x="433" y="356"/>
+        <part name="right-armpit" x="487" y="634"/>
+        <part name="right-sleave-inner" x="470" y="636"/>
+        <part name="right-sleave-outer" x="451" y="775"/>
+        <part name="right-shoulder" x="588" y="832"/>
+        <part name="neckline-right" x="644" y="829"/>
+        <part name="neckline-left" x="788" y="773"/>
+        <part name="left-shoulder" x="826" y="761"/>
+        <part name="left-sleave-outer" x="950" y="693"/>
+        <part name="left-sleave-inner" x="896" y="574"/>
+        <part name="left-armpit" x="880" y="574"/>
+      </box>
+    </image>
+    <image file="cloC01970.png" type="tshirt" shape="wrinkled">
+      <box top="257" left="276" width="689" height="627">
+        <part name="bottom-left" x="656" y="262"/>
+        <part name="bottom-right" x="281" y="499"/>
+        <part name="right-armpit" x="532" y="719"/>
+        <part name="right-sleave-inner" x="513" y="753"/>
+        <part name="right-sleave-outer" x="578" y="865"/>
+        <part name="right-shoulder" x="650" y="880"/>
+        <part name="neckline-right" x="747" y="855"/>
+        <part name="neckline-left" x="863" y="744"/>
+        <part name="left-shoulder" x="918" y="683"/>
+        <part name="left-sleave-outer" x="961" y="558"/>
+        <part name="left-sleave-inner" x="853" y="482"/>
+        <part name="left-armpit" x="844" y="490"/>
+      </box>
+    </image>
+    <image file="cloC01974.png" type="tshirt" shape="wrinkled">
+      <box top="293" left="178" width="632" height="591">
+        <part name="bottom-left" x="183" y="558"/>
+        <part name="bottom-right" x="374" y="879"/>
+        <part name="right-armpit" x="651" y="711"/>
+        <part name="right-sleave-inner" x="681" y="733"/>
+        <part name="right-sleave-outer" x="806" y="728"/>
+        <part name="right-shoulder" x="793" y="592"/>
+        <part name="neckline-right" x="759" y="531"/>
+        <part name="neckline-left" x="706" y="416"/>
+        <part name="left-shoulder" x="681" y="380"/>
+        <part name="left-sleave-outer" x="563" y="298"/>
+        <part name="left-sleave-inner" x="489" y="369"/>
+        <part name="left-armpit" x="495" y="404"/>
+      </box>
+    </image>
+    <image file="cloC01975.png" type="tshirt" shape="wrinkled">
+      <box top="270" left="228" width="689" height="670">
+        <part name="bottom-left" x="233" y="660"/>
+        <part name="bottom-right" x="604" y="936"/>
+        <part name="right-armpit" x="786" y="633"/>
+        <part name="right-sleave-inner" x="814" y="652"/>
+        <part name="right-sleave-outer" x="913" y="608"/>
+        <part name="right-shoulder" x="854" y="493"/>
+        <part name="neckline-right" x="793" y="438"/>
+        <part name="neckline-left" x="720" y="360"/>
+        <part name="left-shoulder" x="696" y="337"/>
+        <part name="left-sleave-outer" x="554" y="275"/>
+        <part name="left-sleave-inner" x="500" y="359"/>
+        <part name="left-armpit" x="513" y="390"/>
+      </box>
+    </image>
+    <image file="cloC01976.png" type="tshirt" shape="wrinkled">
+      <box top="300" left="296" width="625" height="622">
+        <part name="bottom-left" x="487" y="918"/>
+        <part name="bottom-right" x="917" y="726"/>
+        <part name="right-armpit" x="755" y="442"/>
+        <part name="right-sleave-inner" x="785" y="424"/>
+        <part name="right-sleave-outer" x="792" y="327"/>
+        <part name="right-shoulder" x="672" y="305"/>
+        <part name="neckline-right" x="630" y="310"/>
+        <part name="neckline-left" x="484" y="341"/>
+        <part name="left-shoulder" x="405" y="375"/>
+        <part name="left-sleave-outer" x="301" y="445"/>
+        <part name="left-sleave-inner" x="369" y="532"/>
+        <part name="left-armpit" x="408" y="536"/>
+      </box>
+    </image>
+    <image file="cloC01977.png" type="tshirt" shape="wrinkled">
+      <box top="256" left="187" width="663" height="655">
+        <part name="bottom-left" x="564" y="907"/>
+        <part name="bottom-right" x="846" y="551"/>
+        <part name="right-armpit" x="604" y="369"/>
+        <part name="right-sleave-inner" x="608" y="337"/>
+        <part name="right-sleave-outer" x="539" y="261"/>
+        <part name="right-shoulder" x="447" y="320"/>
+        <part name="neckline-right" x="391" y="367"/>
+        <part name="neckline-left" x="325" y="441"/>
+        <part name="left-shoulder" x="273" y="485"/>
+        <part name="left-sleave-outer" x="192" y="608"/>
+        <part name="left-sleave-inner" x="303" y="663"/>
+        <part name="left-armpit" x="341" y="644"/>
+      </box>
+    </image>
+    <image file="cloC01978.png" type="tshirt" shape="wrinkled">
+      <box top="249" left="240" width="610" height="552">
+        <part name="bottom-left" x="778" y="797"/>
+        <part name="bottom-right" x="846" y="451"/>
+        <part name="right-armpit" x="512" y="328"/>
+        <part name="right-sleave-inner" x="503" y="300"/>
+        <part name="right-sleave-outer" x="407" y="254"/>
+        <part name="right-shoulder" x="343" y="336"/>
+        <part name="neckline-right" x="314" y="403"/>
+        <part name="neckline-left" x="261" y="520"/>
+        <part name="left-shoulder" x="245" y="612"/>
+        <part name="left-sleave-outer" x="258" y="747"/>
+        <part name="left-sleave-inner" x="393" y="721"/>
+        <part name="left-armpit" x="405" y="683"/>
+      </box>
+    </image>
+    <image file="cloC01979.png" type="tshirt" shape="wrinkled">
+      <box top="265" left="295" width="570" height="532">
+        <part name="bottom-left" x="861" y="638"/>
+        <part name="bottom-right" x="753" y="270"/>
+        <part name="right-armpit" x="457" y="370"/>
+        <part name="right-sleave-inner" x="432" y="345"/>
+        <part name="right-sleave-outer" x="317" y="342"/>
+        <part name="right-shoulder" x="300" y="443"/>
+        <part name="neckline-right" x="318" y="522"/>
+        <part name="neckline-left" x="381" y="587"/>
+        <part name="left-shoulder" x="372" y="665"/>
+        <part name="left-sleave-outer" x="399" y="792"/>
+        <part name="left-sleave-inner" x="531" y="754"/>
+        <part name="left-armpit" x="549" y="712"/>
+      </box>
+    </image>
+    <image file="cloC01981.png" type="tshirt-long" shape="wrinkled">
+      <box top="350" left="70" width="1166" height="540">
+        <part name="bottom-left" x="766" y="355"/>
+        <part name="bottom-right" x="475" y="355"/>
+        <part name="right-armpit" x="450" y="673"/>
+        <part name="right-sleave-inner" x="133" y="460"/>
+        <part name="right-sleave-outer" x="75" y="511"/>
+        <part name="right-shoulder" x="512" y="863"/>
+        <part name="neckline-right" x="617" y="872"/>
+        <part name="neckline-left" x="729" y="885"/>
+        <part name="left-shoulder" x="823" y="835"/>
+        <part name="left-sleave-outer" x="1232" y="539"/>
+        <part name="left-sleave-inner" x="1184" y="482"/>
+        <part name="left-armpit" x="835" y="648"/>
+      </box>
+    </image>
+    <image file="cloC01982.png" type="tshirt-long" shape="wrinkled">
+      <box top="209" left="29" width="936" height="621">
+        <part name="bottom-left" x="596" y="281"/>
+        <part name="bottom-right" x="318" y="369"/>
+        <part name="right-armpit" x="434" y="674"/>
+        <part name="right-sleave-inner" x="68" y="551"/>
+        <part name="right-sleave-outer" x="34" y="619"/>
+        <part name="right-shoulder" x="554" y="825"/>
+        <part name="neckline-right" x="659" y="805"/>
+        <part name="neckline-left" x="759" y="747"/>
+        <part name="left-shoulder" x="823" y="667"/>
+        <part name="left-sleave-outer" x="960" y="229"/>
+        <part name="left-sleave-inner" x="896" y="214"/>
+        <part name="left-armpit" x="759" y="508"/>
+      </box>
+    </image>
+    <image file="cloC01983.png" type="tshirt-long" shape="wrinkled">
+      <box top="115" left="82" width="772" height="801">
+        <part name="bottom-left" x="448" y="301"/>
+        <part name="bottom-right" x="240" y="513"/>
+        <part name="right-armpit" x="499" y="768"/>
+        <part name="right-sleave-inner" x="87" y="824"/>
+        <part name="right-sleave-outer" x="91" y="912"/>
+        <part name="right-shoulder" x="715" y="805"/>
+        <part name="neckline-right" x="755" y="766"/>
+        <part name="neckline-left" x="828" y="672"/>
+        <part name="left-shoulder" x="849" y="588"/>
+        <part name="left-sleave-outer" x="814" y="124"/>
+        <part name="left-sleave-inner" x="750" y="120"/>
+        <part name="left-armpit" x="715" y="456"/>
+      </box>
+    </image>
+    <image file="cloC01985.png" type="tshirt-long" shape="wrinkled">
+      <box top="145" left="271" width="667" height="748">
+        <part name="bottom-left" x="329" y="508"/>
+        <part name="bottom-right" x="536" y="728"/>
+        <part name="right-armpit" x="781" y="536"/>
+        <part name="right-sleave-inner" x="851" y="882"/>
+        <part name="right-sleave-outer" x="933" y="889"/>
+        <part name="right-shoulder" x="878" y="397"/>
+        <part name="neckline-right" x="840" y="327"/>
+        <part name="neckline-left" x="780" y="251"/>
+        <part name="left-shoulder" x="706" y="221"/>
+        <part name="left-sleave-outer" x="292" y="150"/>
+        <part name="left-sleave-inner" x="276" y="206"/>
+        <part name="left-armpit" x="569" y="272"/>
+      </box>
+    </image>
+    <image file="cloC01987.png" type="tshirt-long" shape="wrinkled">
+      <box top="276" left="366" width="674" height="706">
+        <part name="bottom-left" x="788" y="809"/>
+        <part name="bottom-right" x="942" y="616"/>
+        <part name="right-armpit" x="745" y="381"/>
+        <part name="right-sleave-inner" x="1036" y="338"/>
+        <part name="right-sleave-outer" x="1031" y="281"/>
+        <part name="right-shoulder" x="606" y="293"/>
+        <part name="neckline-right" x="527" y="310"/>
+        <part name="neckline-left" x="419" y="386"/>
+        <part name="left-shoulder" x="375" y="466"/>
+        <part name="left-sleave-outer" x="371" y="962"/>
+        <part name="left-sleave-inner" x="460" y="978"/>
+        <part name="left-armpit" x="457" y="608"/>
+      </box>
+    </image>
+    <image file="cloC01988.png" type="tshirt-long" shape="wrinkled">
+      <box top="102" left="339" width="588" height="813">
+        <part name="bottom-left" x="908" y="668"/>
+        <part name="bottom-right" x="887" y="388"/>
+        <part name="right-armpit" x="550" y="328"/>
+        <part name="right-sleave-inner" x="795" y="149"/>
+        <part name="right-sleave-outer" x="757" y="107"/>
+        <part name="right-shoulder" x="388" y="367"/>
+        <part name="neckline-right" x="349" y="438"/>
+        <part name="neckline-left" x="344" y="569"/>
+        <part name="left-shoulder" x="372" y="657"/>
+        <part name="left-sleave-outer" x="923" y="910"/>
+        <part name="left-sleave-inner" x="919" y="825"/>
+        <part name="left-armpit" x="550" y="687"/>
+      </box>
+    </image>
+    <image file="cloC01989.png" type="tshirt-long" shape="wrinkled">
+      <box top="102" left="267" width="759" height="677">
+        <part name="bottom-left" x="842" y="445"/>
+        <part name="bottom-right" x="681" y="293"/>
+        <part name="right-armpit" x="410" y="423"/>
+        <part name="right-sleave-inner" x="540" y="121"/>
+        <part name="right-sleave-outer" x="483" y="107"/>
+        <part name="right-shoulder" x="272" y="518"/>
+        <part name="neckline-right" x="273" y="608"/>
+        <part name="neckline-left" x="370" y="731"/>
+        <part name="left-shoulder" x="460" y="775"/>
+        <part name="left-sleave-outer" x="1022" y="676"/>
+        <part name="left-sleave-inner" x="971" y="617"/>
+        <part name="left-armpit" x="617" y="696"/>
+      </box>
+    </image>
+    <image file="cloC01992.png" type="tshirt-long" shape="wrinkled">
+      <box top="267" left="115" width="684" height="556">
+        <part name="bottom-left" x="511" y="293"/>
+        <part name="bottom-right" x="272" y="424"/>
+        <part name="right-armpit" x="454" y="692"/>
+        <part name="right-sleave-inner" x="143" y="731"/>
+        <part name="right-sleave-outer" x="120" y="805"/>
+        <part name="right-shoulder" x="583" y="819"/>
+        <part name="neckline-right" x="668" y="782"/>
+        <part name="neckline-left" x="762" y="690"/>
+        <part name="left-shoulder" x="795" y="613"/>
+        <part name="left-sleave-outer" x="716" y="272"/>
+        <part name="left-sleave-inner" x="663" y="282"/>
+        <part name="left-armpit" x="687" y="496"/>
+      </box>
+    </image>
+    <image file="cloC01993.png" type="tshirt-long" shape="wrinkled">
+      <box top="223" left="254" width="582" height="733">
+        <part name="bottom-left" x="327" y="400"/>
+        <part name="bottom-right" x="259" y="671"/>
+        <part name="right-armpit" x="622" y="712"/>
+        <part name="right-sleave-inner" x="388" y="879"/>
+        <part name="right-sleave-outer" x="414" y="951"/>
+        <part name="right-shoulder" x="813" y="691"/>
+        <part name="neckline-right" x="832" y="639"/>
+        <part name="neckline-left" x="824" y="556"/>
+        <part name="left-shoulder" x="806" y="471"/>
+        <part name="left-sleave-outer" x="540" y="228"/>
+        <part name="left-sleave-inner" x="507" y="263"/>
+        <part name="left-armpit" x="659" y="428"/>
+      </box>
+    </image>
+    <image file="cloC01994.png" type="tshirt-long" shape="wrinkled">
+      <box top="234" left="287" width="568" height="729">
+        <part name="bottom-left" x="292" y="561"/>
+        <part name="bottom-right" x="410" y="803"/>
+        <part name="right-armpit" x="715" y="655"/>
+        <part name="right-sleave-inner" x="598" y="903"/>
+        <part name="right-sleave-outer" x="653" y="959"/>
+        <part name="right-shoulder" x="851" y="554"/>
+        <part name="neckline-right" x="842" y="506"/>
+        <part name="neckline-left" x="787" y="430"/>
+        <part name="left-shoulder" x="745" y="381"/>
+        <part name="left-sleave-outer" x="382" y="239"/>
+        <part name="left-sleave-inner" x="363" y="280"/>
+        <part name="left-armpit" x="588" y="398"/>
+      </box>
+    </image>
+    <image file="cloC01995.png" type="tshirt-long" shape="wrinkled">
+      <box top="291" left="163" width="783" height="536">
+        <part name="bottom-left" x="379" y="733"/>
+        <part name="bottom-right" x="659" y="823"/>
+        <part name="right-armpit" x="736" y="513"/>
+        <part name="right-sleave-inner" x="873" y="775"/>
+        <part name="right-sleave-outer" x="942" y="764"/>
+        <part name="right-shoulder" x="752" y="360"/>
+        <part name="neckline-right" x="711" y="331"/>
+        <part name="neckline-left" x="599" y="296"/>
+        <part name="left-shoulder" x="519" y="299"/>
+        <part name="left-sleave-outer" x="168" y="460"/>
+        <part name="left-sleave-inner" x="199" y="507"/>
+        <part name="left-armpit" x="464" y="413"/>
+      </box>
+    </image>
+    <image file="cloC01997.png" type="tshirt-long" shape="wrinkled">
+      <box top="289" left="256" width="606" height="561">
+        <part name="bottom-left" x="655" y="797"/>
+        <part name="bottom-right" x="846" y="629"/>
+        <part name="right-armpit" x="627" y="388"/>
+        <part name="right-sleave-inner" x="830" y="389"/>
+        <part name="right-sleave-outer" x="857" y="345"/>
+        <part name="right-shoulder" x="508" y="294"/>
+        <part name="neckline-right" x="434" y="327"/>
+        <part name="neckline-left" x="377" y="366"/>
+        <part name="left-shoulder" x="342" y="408"/>
+        <part name="left-sleave-outer" x="261" y="846"/>
+        <part name="left-sleave-inner" x="336" y="835"/>
+        <part name="left-armpit" x="396" y="548"/>
+      </box>
+    </image>
+    <image file="cloC01998.png" type="tshirt-long" shape="wrinkled">
+      <box top="164" left="265" width="527" height="797">
+        <part name="bottom-left" x="781" y="658"/>
+        <part name="bottom-right" x="787" y="399"/>
+        <part name="right-armpit" x="489" y="381"/>
+        <part name="right-sleave-inner" x="677" y="209"/>
+        <part name="right-sleave-outer" x="641" y="169"/>
+        <part name="right-shoulder" x="322" y="384"/>
+        <part name="neckline-right" x="286" y="440"/>
+        <part name="neckline-left" x="270" y="573"/>
+        <part name="left-shoulder" x="292" y="658"/>
+        <part name="left-sleave-outer" x="613" y="957"/>
+        <part name="left-sleave-inner" x="656" y="898"/>
+        <part name="left-armpit" x="454" y="664"/>
+      </box>
+    </image>
+    <image file="cloC01999.png" type="tshirt-long" shape="wrinkled">
+      <box top="168" left="304" width="607" height="584">
+        <part name="bottom-left" x="852" y="408"/>
+        <part name="bottom-right" x="691" y="229"/>
+        <part name="right-armpit" x="446" y="391"/>
+        <part name="right-sleave-inner" x="489" y="190"/>
+        <part name="right-sleave-outer" x="438" y="173"/>
+        <part name="right-shoulder" x="309" y="475"/>
+        <part name="neckline-right" x="324" y="556"/>
+        <part name="neckline-left" x="409" y="663"/>
+        <part name="left-shoulder" x="483" y="710"/>
+        <part name="left-sleave-outer" x="906" y="748"/>
+        <part name="left-sleave-inner" x="901" y="682"/>
+        <part name="left-armpit" x="626" y="616"/>
+      </box>
+    </image>
+    <image file="cloC02002.png" type="polo-long" shape="wrinkled">
+      <box top="312" left="119" width="971" height="636">
+        <part name="bottom-left" x="667" y="317"/>
+        <part name="bottom-right" x="314" y="433"/>
+        <part name="right-armpit" x="447" y="700"/>
+        <part name="right-sleave-inner" x="206" y="386"/>
+        <part name="right-sleave-outer" x="124" y="435"/>
+        <part name="right-shoulder" x="461" y="868"/>
+        <part name="neckline-right" x="544" y="922"/>
+        <part name="collar-rigth" x="618" y="943"/>
+        <part name="collar-left" x="791" y="882"/>
+        <part name="neckline-left" x="787" y="844"/>
+        <part name="left-shoulder" x="853" y="803"/>
+        <part name="left-sleave-outer" x="1085" y="397"/>
+        <part name="left-sleave-inner" x="1018" y="339"/>
+        <part name="left-armpit" x="791" y="613"/>
+      </box>
+    </image>
+    <image file="cloC02004.png" type="polo-long" shape="wrinkled">
+      <box top="76" left="180" width="658" height="904">
+        <part name="bottom-left" x="294" y="308"/>
+        <part name="bottom-right" x="245" y="716"/>
+        <part name="right-armpit" x="612" y="682"/>
+        <part name="right-sleave-inner" x="185" y="874"/>
+        <part name="right-sleave-outer" x="220" y="975"/>
+        <part name="right-shoulder" x="752" y="679"/>
+        <part name="neckline-right" x="780" y="634"/>
+        <part name="collar-rigth" x="833" y="594"/>
+        <part name="collar-left" x="833" y="426"/>
+        <part name="neckline-left" x="810" y="418"/>
+        <part name="left-shoulder" x="785" y="343"/>
+        <part name="left-sleave-outer" x="402" y="81"/>
+        <part name="left-sleave-inner" x="351" y="128"/>
+        <part name="left-armpit" x="618" y="333"/>
+      </box>
+    </image>
+    <image file="cloC02006.png" type="polo-long" shape="wrinkled">
+      <box top="211" left="55" width="1009" height="569">
+        <part name="bottom-left" x="315" y="718"/>
+        <part name="bottom-right" x="787" y="773"/>
+        <part name="right-armpit" x="761" y="408"/>
+        <part name="right-sleave-inner" x="975" y="776"/>
+        <part name="right-sleave-outer" x="1060" y="733"/>
+        <part name="right-shoulder" x="716" y="251"/>
+        <part name="neckline-right" x="696" y="244"/>
+        <part name="collar-rigth" x="646" y="221"/>
+        <part name="collar-left" x="550" y="216"/>
+        <part name="neckline-left" x="504" y="237"/>
+        <part name="left-shoulder" x="433" y="249"/>
+        <part name="left-sleave-outer" x="60" y="652"/>
+        <part name="left-sleave-inner" x="139" y="695"/>
+        <part name="left-armpit" x="400" y="404"/>
+      </box>
+    </image>
+    <image file="cloC02007.png" type="polo-long" shape="wrinkled">
+      <box top="241" left="25" width="1150" height="599">
+        <part name="bottom-left" x="415" y="835"/>
+        <part name="bottom-right" x="882" y="721"/>
+        <part name="right-armpit" x="753" y="413"/>
+        <part name="right-sleave-inner" x="1151" y="550"/>
+        <part name="right-sleave-outer" x="1170" y="473"/>
+        <part name="right-shoulder" x="697" y="284"/>
+        <part name="neckline-right" x="641" y="256"/>
+        <part name="collar-rigth" x="613" y="246"/>
+        <part name="collar-left" x="494" y="256"/>
+        <part name="neckline-left" x="456" y="281"/>
+        <part name="left-shoulder" x="429" y="281"/>
+        <part name="left-sleave-outer" x="30" y="657"/>
+        <part name="left-sleave-inner" x="101" y="714"/>
+        <part name="left-armpit" x="389" y="464"/>
+      </box>
+    </image>
+    <image file="cloC02008.png" type="polo-long" shape="wrinkled">
+      <box top="229" left="252" width="748" height="758">
+        <part name="bottom-left" x="549" y="848"/>
+        <part name="bottom-right" x="877" y="534"/>
+        <part name="right-armpit" x="612" y="345"/>
+        <part name="right-sleave-inner" x="991" y="450"/>
+        <part name="right-sleave-outer" x="995" y="372"/>
+        <part name="right-shoulder" x="521" y="234"/>
+        <part name="neckline-right" x="448" y="242"/>
+        <part name="collar-rigth" x="424" y="247"/>
+        <part name="collar-left" x="334" y="289"/>
+        <part name="neckline-left" x="300" y="341"/>
+        <part name="left-shoulder" x="257" y="390"/>
+        <part name="left-sleave-outer" x="278" y="983"/>
+        <part name="left-sleave-inner" x="382" y="950"/>
+        <part name="left-armpit" x="348" y="551"/>
+      </box>
+    </image>
+    <image file="cloC02009.png" type="polo-long" shape="wrinkled">
+      <box top="257" left="211" width="747" height="735">
+        <part name="bottom-left" x="677" y="844"/>
+        <part name="bottom-right" x="868" y="461"/>
+        <part name="right-armpit" x="556" y="348"/>
+        <part name="right-sleave-inner" x="953" y="355"/>
+        <part name="right-sleave-outer" x="950" y="282"/>
+        <part name="right-shoulder" x="460" y="262"/>
+        <part name="neckline-right" x="367" y="299"/>
+        <part name="collar-rigth" x="338" y="309"/>
+        <part name="collar-left" x="252" y="403"/>
+        <part name="neckline-left" x="242" y="460"/>
+        <part name="left-shoulder" x="216" y="527"/>
+        <part name="left-sleave-outer" x="610" y="988"/>
+        <part name="left-sleave-inner" x="673" y="895"/>
+        <part name="left-armpit" x="407" y="638"/>
+      </box>
+    </image>
+    <image file="cloC02010.png" type="polo-long" shape="wrinkled">
+      <box top="114" left="228" width="601" height="854">
+        <part name="bottom-left" x="824" y="662"/>
+        <part name="bottom-right" x="811" y="291"/>
+        <part name="right-armpit" x="478" y="301"/>
+        <part name="right-sleave-inner" x="786" y="180"/>
+        <part name="right-sleave-outer" x="759" y="119"/>
+        <part name="right-shoulder" x="336" y="285"/>
+        <part name="neckline-right" x="277" y="346"/>
+        <part name="collar-rigth" x="270" y="348"/>
+        <part name="collar-left" x="233" y="539"/>
+        <part name="neckline-left" x="251" y="545"/>
+        <part name="left-shoulder" x="259" y="605"/>
+        <part name="left-sleave-outer" x="754" y="964"/>
+        <part name="left-sleave-inner" x="802" y="866"/>
+        <part name="left-armpit" x="452" y="630"/>
+      </box>
+    </image>
+    <image file="cloC02011.png" type="towel" shape="wrinkled">
+      <box top="294" left="186" width="877" height="530">
+        <part name="bottom-left" x="191" y="819"/>
+        <part name="bottom-right" x="1059" y="731"/>
+        <part name="top-right" x="946" y="299"/>
+        <part name="top-left" x="237" y="348"/>
+      </box>
+    </image>
+    <image file="cloC02012.png" type="towel" shape="wrinkled">
+      <box top="241" left="213" width="866" height="738">
+        <part name="bottom-left" x="372" y="974"/>
+        <part name="bottom-right" x="1074" y="640"/>
+        <part name="top-right" x="890" y="246"/>
+        <part name="top-left" x="218" y="490"/>
+      </box>
+    </image>
+    <image file="cloC02013.png" type="towel" shape="wrinkled">
+      <box top="82" left="265" width="797" height="868">
+        <part name="bottom-left" x="682" y="946"/>
+        <part name="bottom-right" x="1057" y="299"/>
+        <part name="top-right" x="709" y="87"/>
+        <part name="top-left" x="270" y="622"/>
+      </box>
+    </image>
+    <image file="cloC02016.png" type="towel" shape="wrinkled">
+      <box top="115" left="119" width="974" height="830">
+        <part name="bottom-left" x="1088" y="515"/>
+        <part name="bottom-right" x="436" y="120"/>
+        <part name="top-right" x="124" y="412"/>
+        <part name="top-left" x="859" y="941"/>
+      </box>
+    </image>
+    <image file="cloC02017.png" type="towel" shape="wrinkled">
+      <box top="234" left="90" width="894" height="644">
+        <part name="bottom-left" x="979" y="403"/>
+        <part name="bottom-right" x="310" y="239"/>
+        <part name="top-right" x="95" y="646"/>
+        <part name="top-left" x="938" y="874"/>
+      </box>
+    </image>
+    <image file="cloC02018.png" type="towel" shape="wrinkled">
+      <box top="257" left="154" width="875" height="640">
+        <part name="bottom-left" x="835" y="262"/>
+        <part name="bottom-right" x="159" y="404"/>
+        <part name="top-right" x="181" y="893"/>
+        <part name="top-left" x="1024" y="667"/>
+      </box>
+    </image>
+    <image file="cloC02019.png" type="towel" shape="wrinkled">
+      <box top="97" left="154" width="832" height="901">
+        <part name="bottom-left" x="626" y="102"/>
+        <part name="bottom-right" x="159" y="728"/>
+        <part name="top-right" x="620" y="994"/>
+        <part name="top-left" x="981" y="313"/>
+      </box>
+    </image>
+    <image file="cloC02020.png" type="towel" shape="wrinkled">
+      <box top="175" left="287" width="558" height="773">
+        <part name="bottom-left" x="396" y="180"/>
+        <part name="bottom-right" x="292" y="924"/>
+        <part name="top-right" x="840" y="943"/>
+        <part name="top-left" x="818" y="197"/>
+      </box>
+    </image>
+    <image file="cloC02022.png" type="bluse" shape="wrinkled">
+      <box top="215" left="244" width="688" height="731">
+        <part name="bottom-left" x="673" y="220"/>
+        <part name="bottom-middle" x="417" y="230"/>
+        <part name="bottom-right" x="249" y="424"/>
+        <part name="right-armpit" x="489" y="781"/>
+        <part name="right-shoulder" x="629" y="942"/>
+        <part name="neckline-right" x="706" y="886"/>
+        <part name="collar-right" x="738" y="899"/>
+        <part name="collar-left" x="846" y="838"/>
+        <part name="neckline-left" x="854" y="799"/>
+        <part name="left-shoulder" x="928" y="721"/>
+        <part name="left-armpit" x="856" y="540"/>
+      </box>
+    </image>
+    <image file="cloC02025.png" type="bluse" shape="wrinkled">
+      <box top="333" left="195" width="815" height="513">
+        <part name="bottom-left" x="329" y="842"/>
+        <part name="bottom-middle" x="200" y="593"/>
+        <part name="bottom-right" x="323" y="338"/>
+        <part name="right-armpit" x="777" y="384"/>
+        <part name="right-shoulder" x="950" y="447"/>
+        <part name="neckline-right" x="975" y="532"/>
+        <part name="collar-right" x="1005" y="564"/>
+        <part name="collar-left" x="1000" y="671"/>
+        <part name="neckline-left" x="972" y="691"/>
+        <part name="left-shoulder" x="971" y="786"/>
+        <part name="left-armpit" x="781" y="787"/>
+      </box>
+    </image>
+    <image file="cloC02026.png" type="bluse" shape="wrinkled">
+      <box top="351" left="201" width="835" height="646">
+        <part name="bottom-left" x="465" y="993"/>
+        <part name="bottom-middle" x="206" y="801"/>
+        <part name="bottom-right" x="238" y="493"/>
+        <part name="right-armpit" x="693" y="369"/>
+        <part name="right-shoulder" x="867" y="356"/>
+        <part name="neckline-right" x="915" y="426"/>
+        <part name="collar-right" x="958" y="442"/>
+        <part name="collar-left" x="1000" y="535"/>
+        <part name="neckline-left" x="990" y="568"/>
+        <part name="left-shoulder" x="1032" y="631"/>
+        <part name="left-armpit" x="887" y="733"/>
+      </box>
+    </image>
+    <image file="cloC02027.png" type="bluse" shape="wrinkled">
+      <box top="257" left="306" width="736" height="716">
+        <part name="bottom-left" x="715" y="969"/>
+        <part name="bottom-middle" x="409" y="890"/>
+        <part name="bottom-right" x="311" y="606"/>
+        <part name="right-armpit" x="648" y="346"/>
+        <part name="right-shoulder" x="786" y="262"/>
+        <part name="neckline-right" x="865" y="295"/>
+        <part name="collar-right" x="905" y="296"/>
+        <part name="collar-left" x="983" y="359"/>
+        <part name="neckline-left" x="981" y="393"/>
+        <part name="left-shoulder" x="1038" y="454"/>
+        <part name="left-armpit" x="956" y="569"/>
+      </box>
+    </image>
+    <image file="cloC02028.png" type="bluse" shape="wrinkled">
+      <box top="243" left="357" width="611" height="726">
+        <part name="bottom-left" x="887" y="926"/>
+        <part name="bottom-middle" x="554" y="965"/>
+        <part name="bottom-right" x="362" y="710"/>
+        <part name="right-armpit" x="580" y="375"/>
+        <part name="right-shoulder" x="677" y="248"/>
+        <part name="neckline-right" x="759" y="274"/>
+        <part name="collar-right" x="797" y="263"/>
+        <part name="collar-left" x="887" y="306"/>
+        <part name="neckline-left" x="896" y="341"/>
+        <part name="left-shoulder" x="963" y="390"/>
+        <part name="left-armpit" x="933" y="539"/>
+      </box>
+    </image>
+    <image file="cloC02029.png" type="bluse" shape="wrinkled">
+      <box top="210" left="301" width="748" height="634">
+        <part name="bottom-left" x="1045" y="534"/>
+        <part name="bottom-middle" x="976" y="742"/>
+        <part name="bottom-right" x="717" y="839"/>
+        <part name="right-armpit" x="391" y="536"/>
+        <part name="right-shoulder" x="306" y="378"/>
+        <part name="neckline-right" x="380" y="318"/>
+        <part name="collar-right" x="391" y="282"/>
+        <part name="collar-left" x="478" y="241"/>
+        <part name="neckline-left" x="516" y="252"/>
+        <part name="left-shoulder" x="578" y="215"/>
+        <part name="left-armpit" x="702" y="313"/>
+      </box>
+    </image>
+    <image file="cloC02030.png" type="polo-long" shape="wrinkled">
+      <box top="248" left="176" width="1000" height="615">
+        <part name="bottom-left" x="810" y="262"/>
+        <part name="bottom-right" x="527" y="253"/>
+        <part name="right-armpit" x="469" y="575"/>
+        <part name="right-sleave-inner" x="234" y="359"/>
+        <part name="right-sleave-outer" x="181" y="381"/>
+        <part name="right-shoulder" x="485" y="773"/>
+        <part name="neckline-right" x="570" y="804"/>
+        <part name="collar-rigth" x="611" y="858"/>
+        <part name="collar-left" x="725" y="848"/>
+        <part name="neckline-left" x="745" y="787"/>
+        <part name="left-shoulder" x="829" y="772"/>
+        <part name="left-sleave-outer" x="1172" y="487"/>
+        <part name="left-sleave-inner" x="1136" y="441"/>
+        <part name="left-armpit" x="856" y="593"/>
+      </box>
+    </image>
+    <image file="cloC02032.png" type="polo-long" shape="wrinkled">
+      <box top="203" left="181" width="783" height="735">
+        <part name="bottom-left" x="474" y="304"/>
+        <part name="bottom-right" x="285" y="539"/>
+        <part name="right-armpit" x="589" y="782"/>
+        <part name="right-sleave-inner" x="191" y="863"/>
+        <part name="right-sleave-outer" x="186" y="933"/>
+        <part name="right-shoulder" x="778" y="880"/>
+        <part name="neckline-right" x="840" y="825"/>
+        <part name="collar-rigth" x="906" y="828"/>
+        <part name="collar-left" x="960" y="729"/>
+        <part name="neckline-left" x="931" y="682"/>
+        <part name="left-shoulder" x="943" y="591"/>
+        <part name="left-sleave-outer" x="681" y="208"/>
+        <part name="left-sleave-inner" x="636" y="230"/>
+        <part name="left-armpit" x="800" y="482"/>
+      </box>
+    </image>
+    <image file="cloC02034.png" type="polo-long" shape="wrinkled">
+      <box top="215" left="310" width="692" height="763">
+        <part name="bottom-left" x="341" y="433"/>
+        <part name="bottom-right" x="315" y="750"/>
+        <part name="right-armpit" x="678" y="805"/>
+        <part name="right-sleave-inner" x="386" y="900"/>
+        <part name="right-sleave-outer" x="384" y="974"/>
+        <part name="right-shoulder" x="931" y="794"/>
+        <part name="neckline-right" x="947" y="681"/>
+        <part name="collar-rigth" x="998" y="655"/>
+        <part name="collar-left" x="990" y="555"/>
+        <part name="neckline-left" x="941" y="530"/>
+        <part name="left-shoulder" x="900" y="452"/>
+        <part name="left-sleave-outer" x="452" y="220"/>
+        <part name="left-sleave-inner" x="429" y="261"/>
+        <part name="left-armpit" x="735" y="432"/>
+      </box>
+    </image>
+    <image file="cloC02035.png" type="polo-long" shape="wrinkled">
+      <box top="216" left="322" width="684" height="745">
+        <part name="bottom-left" x="327" y="460"/>
+        <part name="bottom-right" x="400" y="768"/>
+        <part name="right-armpit" x="815" y="657"/>
+        <part name="right-sleave-inner" x="574" y="890"/>
+        <part name="right-sleave-outer" x="606" y="957"/>
+        <part name="right-shoulder" x="969" y="605"/>
+        <part name="neckline-right" x="970" y="525"/>
+        <part name="collar-rigth" x="1002" y="493"/>
+        <part name="collar-left" x="967" y="409"/>
+        <part name="neckline-left" x="917" y="399"/>
+        <part name="left-shoulder" x="856" y="334"/>
+        <part name="left-sleave-outer" x="390" y="221"/>
+        <part name="left-sleave-inner" x="371" y="263"/>
+        <part name="left-armpit" x="651" y="366"/>
+      </box>
+    </image>
+    <image file="cloC02036.png" type="polo-long" shape="wrinkled">
+      <box top="229" left="90" width="966" height="641">
+        <part name="bottom-left" x="370" y="818"/>
+        <part name="bottom-right" x="710" y="866"/>
+        <part name="right-armpit" x="773" y="504"/>
+        <part name="right-sleave-inner" x="986" y="801"/>
+        <part name="right-sleave-outer" x="1051" y="789"/>
+        <part name="right-shoulder" x="797" y="339"/>
+        <part name="neckline-right" x="730" y="293"/>
+        <part name="collar-rigth" x="716" y="253"/>
+        <part name="collar-left" x="634" y="234"/>
+        <part name="neckline-left" x="602" y="266"/>
+        <part name="left-shoulder" x="513" y="275"/>
+        <part name="left-sleave-outer" x="95" y="507"/>
+        <part name="left-sleave-inner" x="125" y="554"/>
+        <part name="left-armpit" x="447" y="411"/>
+      </box>
+    </image>
+    <image file="cloC02038.png" type="polo-long" shape="wrinkled">
+      <box top="148" left="240" width="662" height="838">
+        <part name="bottom-left" x="792" y="739"/>
+        <part name="bottom-right" x="898" y="452"/>
+        <part name="right-armpit" x="578" y="298"/>
+        <part name="right-sleave-inner" x="853" y="196"/>
+        <part name="right-sleave-outer" x="834" y="153"/>
+        <part name="right-shoulder" x="408" y="253"/>
+        <part name="neckline-right" x="347" y="303"/>
+        <part name="collar-rigth" x="296" y="300"/>
+        <part name="collar-left" x="245" y="370"/>
+        <part name="neckline-left" x="278" y="414"/>
+        <part name="left-shoulder" x="264" y="498"/>
+        <part name="left-sleave-outer" x="521" y="981"/>
+        <part name="left-sleave-inner" x="578" y="933"/>
+        <part name="left-armpit" x="431" y="611"/>
+      </box>
+    </image>
+    <image file="cloC02039.png" type="polo-long" shape="wrinkled">
+      <box top="239" left="210" width="668" height="749">
+        <part name="bottom-left" x="873" y="714"/>
+        <part name="bottom-right" x="873" y="405"/>
+        <part name="right-armpit" x="504" y="334"/>
+        <part name="right-sleave-inner" x="791" y="293"/>
+        <part name="right-sleave-outer" x="790" y="244"/>
+        <part name="right-shoulder" x="320" y="350"/>
+        <part name="neckline-right" x="284" y="418"/>
+        <part name="collar-rigth" x="229" y="435"/>
+        <part name="collar-left" x="215" y="537"/>
+        <part name="neckline-left" x="258" y="561"/>
+        <part name="left-shoulder" x="275" y="643"/>
+        <part name="left-sleave-outer" x="772" y="984"/>
+        <part name="left-sleave-inner" x="799" y="914"/>
+        <part name="left-armpit" x="462" y="691"/>
+      </box>
+    </image>
+    <image file="cloC02041.png" type="tshirt" shape="wrinkled">
+      <box top="271" left="281" width="604" height="440">
+        <part name="bottom-left" x="421" y="276"/>
+        <part name="bottom-right" x="672" y="281"/>
+        <part name="right-armpit" x="719" y="503"/>
+        <part name="right-sleave-inner" x="824" y="437"/>
+        <part name="right-sleave-outer" x="881" y="485"/>
+        <part name="right-shoulder" x="715" y="685"/>
+        <part name="neckline-right" x="648" y="706"/>
+        <part name="neckline-left" x="490" y="692"/>
+        <part name="left-shoulder" x="456" y="704"/>
+        <part name="left-sleave-outer" x="295" y="511"/>
+        <part name="left-sleave-inner" x="286" y="456"/>
+        <part name="left-armpit" x="391" y="540"/>
+      </box>
+    </image>
+    <image file="cloC02042.png" type="tshirt" shape="wrinkled">
+      <box top="323" left="259" width="546" height="526">
+        <part name="bottom-left" x="264" y="536"/>
+        <part name="bottom-right" x="432" y="328"/>
+        <part name="right-armpit" x="643" y="442"/>
+        <part name="right-sleave-inner" x="656" y="346"/>
+        <part name="right-sleave-outer" x="726" y="341"/>
+        <part name="right-shoulder" x="801" y="541"/>
+        <part name="neckline-right" x="786" y="603"/>
+        <part name="neckline-left" x="729" y="753"/>
+        <part name="left-shoulder" x="695" y="790"/>
+        <part name="left-sleave-outer" x="404" y="844"/>
+        <part name="left-sleave-inner" x="391" y="757"/>
+        <part name="left-armpit" x="490" y="718"/>
+      </box>
+    </image>
+    <image file="cloC02043.png" type="tshirt" shape="wrinkled">
+      <box top="291" left="289" width="547" height="602">
+        <part name="bottom-left" x="294" y="719"/>
+        <part name="bottom-right" x="322" y="446"/>
+        <part name="right-armpit" x="578" y="421"/>
+        <part name="right-sleave-inner" x="500" y="350"/>
+        <part name="right-sleave-outer" x="537" y="296"/>
+        <part name="right-shoulder" x="774" y="423"/>
+        <part name="neckline-right" x="799" y="474"/>
+        <part name="neckline-left" x="830" y="608"/>
+        <part name="left-shoulder" x="832" y="668"/>
+        <part name="left-sleave-outer" x="606" y="889"/>
+        <part name="left-sleave-inner" x="545" y="822"/>
+        <part name="left-armpit" x="641" y="705"/>
+      </box>
+    </image>
+    <image file="cloC02046.png" type="tshirt" shape="wrinkled">
+      <box top="381" left="228" width="603" height="519">
+        <part name="bottom-left" x="692" y="896"/>
+        <part name="bottom-right" x="826" y="641"/>
+        <part name="right-armpit" x="620" y="476"/>
+        <part name="right-sleave-inner" x="739" y="455"/>
+        <part name="right-sleave-outer" x="730" y="386"/>
+        <part name="right-shoulder" x="471" y="395"/>
+        <part name="neckline-right" x="422" y="431"/>
+        <part name="neckline-left" x="328" y="523"/>
+        <part name="left-shoulder" x="287" y="575"/>
+        <part name="left-sleave-outer" x="233" y="852"/>
+        <part name="left-sleave-inner" x="318" y="880"/>
+        <part name="left-armpit" x="382" y="740"/>
+      </box>
+    </image>
+    <image file="cloC02047.png" type="tshirt" shape="wrinkled">
+      <box top="318" left="310" width="531" height="596">
+        <part name="bottom-left" x="816" y="743"/>
+        <part name="bottom-right" x="837" y="490"/>
+        <part name="right-armpit" x="573" y="432"/>
+        <part name="right-sleave-inner" x="644" y="372"/>
+        <part name="right-sleave-outer" x="599" y="323"/>
+        <part name="right-shoulder" x="372" y="436"/>
+        <part name="neckline-right" x="343" y="487"/>
+        <part name="neckline-left" x="315" y="646"/>
+        <part name="left-shoulder" x="325" y="715"/>
+        <part name="left-sleave-outer" x="578" y="909"/>
+        <part name="left-sleave-inner" x="613" y="827"/>
+        <part name="left-armpit" x="509" y="749"/>
+      </box>
+    </image>
+    <image file="cloC02050.png" type="tshirt" shape="wrinkled">
+      <box top="324" left="249" width="625" height="508">
+        <part name="bottom-left" x="399" y="362"/>
+        <part name="bottom-right" x="649" y="329"/>
+        <part name="right-armpit" x="745" y="535"/>
+        <part name="right-sleave-inner" x="806" y="465"/>
+        <part name="right-sleave-outer" x="870" y="502"/>
+        <part name="right-shoulder" x="769" y="716"/>
+        <part name="neckline-right" x="714" y="747"/>
+        <part name="neckline-left" x="601" y="808"/>
+        <part name="left-shoulder" x="531" y="828"/>
+        <part name="left-sleave-outer" x="254" y="695"/>
+        <part name="left-sleave-inner" x="292" y="620"/>
+        <part name="left-armpit" x="423" y="655"/>
+      </box>
+    </image>
+  </images>
+</dataset>
